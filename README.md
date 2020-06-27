@@ -26,14 +26,13 @@ event_data/2018-11-09-events.csv
 
 
 ## Project Template
-To get started with the project, go to the workspace on the next page, where you'll find the project template (a Jupyter notebook file). You can work on your project and submit your work through this workspace.
 
 The project template includes one Jupyter Notebook file, in which:
 
-you will process the event_datafile_new.csv dataset to create a denormalized dataset
-you will model the data tables keeping in mind the queries you need to run
-you have been provided queries that you will need to model your data tables for
-you will load the data into tables you create in Apache Cassandra and run your queries
+You will process the event_datafile_new.csv dataset to create a denormalized dataset
+You will model the data tables keeping in mind the queries you need to run
+You have been provided queries that you will need to model your data tables for
+You will load the data into tables you create in Apache Cassandra and run your queries
 
 ## Project Steps
 
