@@ -1,7 +1,6 @@
 # Data Modeling with Cassandra
 
-This project was submitted as part of second project for the Data Engineering Nanodegree. The project has two key components:
-- Data modeling with Cassandra which includes:
+This project was submitted as part of second project for the Data Engineering Nanodegree. In this project Data is modeled with Cassandra which includes following key steps:
 - ETL pipeline using Python
 - Create one table per query and answer user specific queries
 
